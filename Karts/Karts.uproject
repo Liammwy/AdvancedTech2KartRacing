@@ -9,14 +9,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		},
 		{
-			"Name": "ChaosVehiclesPlugin",
+			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
 	]
