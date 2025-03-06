@@ -1,0 +1,172 @@
+[+] Containers:
+ |- [+] Container: /Game/VehicleTemplate/Maps/VehicleExampleMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:07FE48C94798CF6592AEDCA02F29E7F7 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A875202_1119575916 Label:1R15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=4940.000 Z=-190.000), Max=(X=-10800.000 Y=7440.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:0E65985042B03D5910AB92A627A90D9B BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1941597531 Label:1R8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4800.000 Y=-7560.000 Z=-190.000), Max=(X=200.000 Y=-5060.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:171313D0407C3F64D2D4B296EC558C63 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-12600.000 Z=-100.000), Max=(X=12600.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1F68904143510DC8A875A6AE60D4A817 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A865202_2117927738 Label:1R7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4800.000 Y=-5060.000 Z=-190.000), Max=(X=200.000 Y=-60.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:25E856F042412E1485596BAE8A5ABA38 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=-100.000), Max=(X=0.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:33AFF2D04475C057D4E02F844A8C295C BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1779905528 Label:1R12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=-2560.000 Z=-190.000), Max=(X=-8300.000 Y=2440.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:501E10E347E471BF4C26D39A802DF3BF BaseClass:/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.OffroadCar_Pawn_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:OffroadCar_Pawn_C_UAID_2C58B90D038A845202_1527259322 Label:OffroadCar_Pawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11506.381 Y=-10189.800 Z=-0.394), Max=(X=-11100.000 Y=-9810.200 Z=158.661) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:56C9FBE7414ADEF8D377A19622A19A79 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1889170530 Label:1R9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4800.000 Y=-12560.000 Z=-190.000), Max=(X=200.000 Y=-7560.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:62B351BB423B9EABD5AE849DD1DFC408 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=720.000), Max=(X=-12600.000 Y=-12600.000 Z=720.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:6A1C7CE945AD720405A2B8A0CDC31EEA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:6B337CAD4C563049716FB399D124EC3D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=590.000), Max=(X=-12600.000 Y=-12600.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:72FBA45F474AD6B89F11049FCA83748F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5DFB00_1630210247 Label:SM_SkySphere SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:74AAEC55421725AE55417283F965F783 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A875202_1245946919 Label:1R13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9550.000 Y=2435.000 Z=-190.000), Max=(X=-8300.000 Y=3685.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:8C0FA1084325C13D99C659A1CE031414 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_1 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6770.000 Y=-6680.000 Z=9.935), Max=(X=-6690.000 Y=-6600.000 Z=101.935) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A5D6E6BB46BAC15E6D356990E1F7F480 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:A6ABCCAF4857AE8E40E6228F0FECD123 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_0 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=-25200.000 Y=-25200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Landscape FolderGuid:912F765E4714A1DB296369A3E4390900
+ |   |   |- Guid:AB3D653A48C4F01FAA4F39A2698C3518 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=920.000), Max=(X=-12600.000 Y=-12600.000 Z=920.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:B2C89E7944D6C7D696D60EB9E2BD1D23 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A875202_1085232915 Label:1R14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=2440.000 Z=-190.000), Max=(X=-10800.000 Y=4940.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:BADB0C4C4CE2AFEBE0E228BE26D71AC6 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=12600.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CA3C0F6345B2DA9E299ED5BEE611655B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-18200.000 Y=-12650.000 Z=-6950.000), Max=(X=-18200.000 Y=-12650.000 Z=-6950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:D5CE1A3946843967B0D1A493A9ED5CF6 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=300.000), Max=(X=-12400.000 Y=-12400.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:D5E1D31C4E280EB4105EF6B0FDC8C4D5 BaseClass:/Game/Blueprints/BP_Floor.BP_Floor_C NativeClass:/Script/Engine.Actor Name:BP_Floor_C_UAID_2C58B90D038A855202_1830783529 Label:BP_Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26550.000 Y=-25060.000 Z=-5.000), Max=(X=13450.000 Y=14940.000 Z=5.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Floors FolderGuid:357A29164707F9F309FF87B0621B0A3F
+ |   |   |- Guid:DB51ECF7439E5272D96AEF83EF77B392 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=12600.000 Y=12600.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ECC469564DAD651750C297978BBA291A BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1770683527 Label:1R11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=-7560.000 Z=-190.000), Max=(X=-8300.000 Y=-2560.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- Guid:FD34D2DB45900E69470CCC88569C1266 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1706670526 Label:1R010 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=-12560.000 Z=-190.000), Max=(X=-8300.000 Y=-7560.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:07FE48C94798CF6592AEDCA02F29E7F7 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A875202_1119575916 Label:1R15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=4940.000 Z=-190.000), Max=(X=-10800.000 Y=7440.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0E65985042B03D5910AB92A627A90D9B BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1941597531 Label:1R8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4800.000 Y=-7560.000 Z=-190.000), Max=(X=200.000 Y=-5060.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:171313D0407C3F64D2D4B296EC558C63 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-12600.000 Z=-100.000), Max=(X=12600.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1F68904143510DC8A875A6AE60D4A817 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A865202_2117927738 Label:1R7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4800.000 Y=-5060.000 Z=-190.000), Max=(X=200.000 Y=-60.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:25E856F042412E1485596BAE8A5ABA38 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=-100.000), Max=(X=0.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:33AFF2D04475C057D4E02F844A8C295C BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1779905528 Label:1R12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=-2560.000 Z=-190.000), Max=(X=-8300.000 Y=2440.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:501E10E347E471BF4C26D39A802DF3BF BaseClass:/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.OffroadCar_Pawn_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:OffroadCar_Pawn_C_UAID_2C58B90D038A845202_1527259322 Label:OffroadCar_Pawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11506.381 Y=-10189.800 Z=-0.394), Max=(X=-11100.000 Y=-9810.200 Z=158.661) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:56C9FBE7414ADEF8D377A19622A19A79 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1889170530 Label:1R9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4800.000 Y=-12560.000 Z=-190.000), Max=(X=200.000 Y=-7560.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:62B351BB423B9EABD5AE849DD1DFC408 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=720.000), Max=(X=-12600.000 Y=-12600.000 Z=720.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:6A1C7CE945AD720405A2B8A0CDC31EEA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:6B337CAD4C563049716FB399D124EC3D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=590.000), Max=(X=-12600.000 Y=-12600.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:72FBA45F474AD6B89F11049FCA83748F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5DFB00_1630210247 Label:SM_SkySphere SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:74AAEC55421725AE55417283F965F783 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A875202_1245946919 Label:1R13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9550.000 Y=2435.000 Z=-190.000), Max=(X=-8300.000 Y=3685.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:8C0FA1084325C13D99C659A1CE031414 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_1 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6770.000 Y=-6680.000 Z=9.935), Max=(X=-6690.000 Y=-6600.000 Z=101.935) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:A5D6E6BB46BAC15E6D356990E1F7F480 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:A6ABCCAF4857AE8E40E6228F0FECD123 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_0 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=-25200.000 Y=-25200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Landscape FolderGuid:912F765E4714A1DB296369A3E4390900
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:AB3D653A48C4F01FAA4F39A2698C3518 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=920.000), Max=(X=-12600.000 Y=-12600.000 Z=920.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:B2C89E7944D6C7D696D60EB9E2BD1D23 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A875202_1085232915 Label:1R14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=2440.000 Z=-190.000), Max=(X=-10800.000 Y=4940.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:BADB0C4C4CE2AFEBE0E228BE26D71AC6 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=12600.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:CA3C0F6345B2DA9E299ED5BEE611655B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-18200.000 Y=-12650.000 Z=-6950.000), Max=(X=-18200.000 Y=-12650.000 Z=-6950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:D5CE1A3946843967B0D1A493A9ED5CF6 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=300.000), Max=(X=-12400.000 Y=-12400.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:D5E1D31C4E280EB4105EF6B0FDC8C4D5 BaseClass:/Game/Blueprints/BP_Floor.BP_Floor_C NativeClass:/Script/Engine.Actor Name:BP_Floor_C_UAID_2C58B90D038A855202_1830783529 Label:BP_Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26550.000 Y=-25060.000 Z=-5.000), Max=(X=13450.000 Y=14940.000 Z=5.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Floors FolderGuid:357A29164707F9F309FF87B0621B0A3F
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:DB51ECF7439E5272D96AEF83EF77B392 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=12600.000 Y=12600.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:ECC469564DAD651750C297978BBA291A BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1770683527 Label:1R11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=-7560.000 Z=-190.000), Max=(X=-8300.000 Y=-2560.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:FD34D2DB45900E69470CCC88569C1266 BaseClass:/Game/Blueprints/BP_RoomLayout.BP_RoomLayout_C NativeClass:/Script/Engine.Actor Name:BP_RoomLayout_C_UAID_2C58B90D038A855202_1706670526 Label:1R010 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13300.000 Y=-12560.000 Z=-190.000), Max=(X=-8300.000 Y=-7560.000 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rooms FolderGuid:341D209C47D35A6F324D10A1221A4D26
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/VehicleTemplate/Maps/VehicleExampleMap
+----------------------------------------------------------------------------------------------------------------
+VehicleExampleMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of VehicleExampleMap Persistent Level
+ |- Always loaded Actor Count: 32 
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/VehicleTemplate/Maps/VehicleExampleMap
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_Floor_C_UAID_2C58B90D038A855202_1830783529
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/1M/RIAPPJK7N7RUPTYOMN9Y2G
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A855202_1706670526
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/04/DX7H7UHUUQRFPSJ4LOFKJX
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A855202_1770683527
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/DV/C0DGGCZFMNOBP73LDWIZ8L
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A855202_1779905528
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/JJ/4T3DP5Q0FAWSVVVAMGQHRA
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A855202_1889170530
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/KP/3L4MABRZ594GKISXSTWLN5
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A855202_1941597531
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/D5/MJZHCPD2RQ807GZ0QMVFCJ
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A865202_2117927738
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/OB/L3BK1P0FFTDJOUFAR6NVQY
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A875202_1085232915
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/OF/V6X7KVCIGULXS2054LPFWH
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A875202_1119575916
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/YC/REIH6C4FZCC0TBITY37MA1
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_RoomLayout_C_UAID_2C58B90D038A875202_1245946919
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/UR/3YIK7R8BUDM1TIINJPB1JY
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Brush_1
+ |- Actor Package: /Game/VehicleTemplate/Maps/VehicleExampleMap
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/VehicleTemplate/Maps/VehicleExampleMap
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HQ/JFSCDHM3DQXDWPJD8RHGWV
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/VZ/RO3QWXLUI0FCFWSB7PRWYH
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/VehicleTemplate/Maps/VehicleExampleMap
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Landscape_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/J6/FATC6RSAGYSG8G4CTB1IAT
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_0_0_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_0_1_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_1_0_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.LandscapeStreamingProxy_BN55SI9ETKGRY904720BQHPG3_1_1_1_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.OffroadCar_Pawn_C_UAID_2C58B90D038A845202_1527259322
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/AO/11MTBI6COFUD2GNJQF2NXM
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.PlayerStart_1
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/S4/39R99VDAXF7X1T8FW5O7G5
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/RG/6FX3FVZLOTLUYLWS5AEE1A
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/WW/FO9B6T5LMMCOKJG4HCFNL1
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5DFB00_1630210247
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/LP/UZ50PDVAY299IMPNI9D2JC
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap_C_1
+ |- Actor Package: /Game/VehicleTemplate/Maps/VehicleExampleMap
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/6B/35BADYNNBJZPEYUTHJKTQU
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/8Z/8O4O20NVAUFW84ZP4YO7II
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/GT/DVHRIRLU9GVKHFO3UTR8FO
+ |- Actor Path: /Game/VehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.WorldSettings_1
+ |- Actor Package: /Game/VehicleTemplate/Maps/VehicleExampleMap
+
+----------------------------------------------------------------------------------------------------------------
+VehicleExampleMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
